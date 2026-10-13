@@ -1,0 +1,17 @@
+{
+  "outbounds": [
+    {
+      "type": "hysteria2",
+      "tag": "233boy-hysteria2-45.195.197.173",
+      "server": "45.195.197.173",
+      "server_port": 443,
+      "password": "b05a5ccc-f337-4fbf-853d-04d9d31a80f1",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "alpn": ["h3"],
+        "pin_sha256": "9E7F5585C17252F2E8445985D106109F3B4ED7C6281CDA3AF2FC810212C0847C"
+      }
+    }
+  ]
+}
